@@ -1,0 +1,577 @@
+{
+  "all": [
+    {
+      "title": "12121",
+      "id": "j7c0shgs",
+      "start": "20180828",
+      "end": "20180829",
+      "fz": "会议安排",
+      "op": 1,
+      "cur": "yellow",
+      "type": "all"
+    },
+    {
+      "title": "1212",
+      "id": "vi41283y",
+      "start": "2018096",
+      "end": "2018097",
+      "cur": "skyblue",
+      "type": "my"
+    },
+    {
+      "title": "121212",
+      "id": "ldujwl8c",
+      "start": "2018096",
+      "end": "2018097",
+      "cur": "yellowgreen",
+      "type": "members"
+    },
+    {
+      "title": "1212",
+      "id": "zwvs96w2",
+      "start": "20180914",
+      "end": "20180915",
+      "cur": "skyblue",
+      "type": "my"
+    },
+    {
+      "title": "23232",
+      "id": "4zh12xjw",
+      "start": "20180915",
+      "end": "20180916",
+      "cur": "skyblue",
+      "type": "my"
+    },
+    {
+      "title": "1212121",
+      "id": "8h8ku3sw",
+      "start": "20180914",
+      "end": "20180915",
+      "fz": "12",
+      "op": 1,
+      "cur": "red",
+      "type": "all"
+    }
+  ],
+  "type": [
+    {
+      "id": 1,
+      "title": "会议安排",
+      "color": "yellow",
+      "cur": true
+    },
+    {
+      "id": 2,
+      "title": "12",
+      "color": "red",
+      "cur": true
+    }
+  ],
+  "child": [
+    {
+      "name": "asd",
+      "id": "9o6grt9v",
+      "desc": "123",
+      "sort": "通用",
+      "condition": "已启用"
+    },
+    {
+      "name": "1",
+      "id": "j5du3xgp",
+      "desc": "123",
+      "sort": "软件",
+      "condition": "已启用"
+    },
+    {
+      "name": "miss.jing",
+      "id": "p9he7mp0",
+      "desc": "123",
+      "sort": "软件",
+      "condition": "已启用"
+    },
+    {
+      "name": "12",
+      "id": "c8h7neux",
+      "desc": "123",
+      "sort": "软件",
+      "condition": "已启用"
+    },
+    {
+      "name": "asd",
+      "id": "gk96xo66",
+      "desc": "123",
+      "sort": "研发管理项目",
+      "condition": "已启用"
+    },
+    {
+      "name": "miss.jing",
+      "id": "2cf543pr",
+      "desc": "1233",
+      "sort": "软件",
+      "condition": "已启用"
+    },
+    {
+      "name": "miss.jing",
+      "id": "n6yh7wrh",
+      "desc": "123",
+      "sort": "通用",
+      "condition": "已启用"
+    },
+    {
+      "name": "asd",
+      "id": "qnbijc30",
+      "desc": "123",
+      "sort": "通用",
+      "condition": "已启用"
+    },
+    {
+      "name": "asd",
+      "id": "yiv8f1br",
+      "desc": "123",
+      "sort": "请选择模板类型",
+      "condition": "已启用"
+    },
+    {
+      "name": "asd",
+      "id": "ccqzz547",
+      "desc": "asd",
+      "sort": "通用",
+      "condition": "已启用"
+    },
+    {
+      "name": "项目管理",
+      "id": "0ho2pxv2",
+      "desc": "崔慧亮",
+      "sort": "通用",
+      "condition": "已启用"
+    },
+    {
+      "name": "第二组",
+      "id": "8pnosxc1",
+      "desc": "123",
+      "sort": "通用",
+      "condition": "已启用"
+    }
+  ],
+  "child1": [
+    {
+      "id": 2,
+      "name": "迭代",
+      "desc": "用于敏捷开发管理中的迭代管理，支持迭代统计、故事板及规划",
+      "sort": "通用"
+    },
+    {
+      "id": 3,
+      "name": "列表",
+      "desc": "用列表的方式直观的展示任务",
+      "sort": "通用"
+    },
+    {
+      "id": 4,
+      "name": "时间",
+      "desc": "用甘特图的方式展示任务，支持任务视图与人员视图",
+      "sort": "通用"
+    },
+    {
+      "id": 5,
+      "name": "报表",
+      "desc": "用表格的方式展示任务，支持表头自定义",
+      "sort": "通用"
+    }
+  ],
+  "child2": [],
+  "enterprise": [
+    {
+      "id": "1231ad1a",
+      "folder_color": "#0033ff",
+      "folder_name": "公司制度",
+      "file_zize": "-",
+      "update_person": "M",
+      "update_time": "9月12日 08:44",
+      "dir": "/root/01",
+      "deleted": false,
+      "children": [
+        {
+          "id": "afafaf6m",
+          "folder_color": "#228b22",
+          "folder_name": "公司照片",
+          "file_zize": "-",
+          "update_person": "M",
+          "update_time": "9月12日 08:46",
+          "dir": "/root/01/01",
+          "deleted": false
+        }
+      ]
+    },
+    {
+      "id": "6ud1p6mn",
+      "folder_color": "#0066ff",
+      "folder_name": "资料共享",
+      "file_zize": "-",
+      "update_person": "M",
+      "update_time": "9月11日 16:16",
+      "dir": "/root/02",
+      "deleted": false
+    },
+    {
+      "id": "1s5s6d3r",
+      "folder_color": "#66ff00",
+      "folder_name": "缺陷管理",
+      "file_zize": "-",
+      "update_person": "M",
+      "update_time": "9月11日 16:18",
+      "dir": "/root/03",
+      "deleted": true
+    },
+    {
+      "id": "wzboduy2",
+      "folder_color": "#9473fd",
+      "folder_name": "公司",
+      "file_zize": "-",
+      "update_person": "M",
+      "update_time": "09月12日 08:55",
+      "dir": "/root/01/wzboduy2",
+      "deleted": true
+    },
+    {
+      "id": "fz46oh7n",
+      "folder_color": "#4e8af9",
+      "folder_name": "历史",
+      "file_zize": "-",
+      "update_person": "M",
+      "update_time": "09月13日 08:10",
+      "dir": "/root/01/fz46oh7n",
+      "deleted": true
+    },
+    {
+      "id": "cf1r5668",
+      "folder_color": "#99d75a",
+      "folder_name": "华为",
+      "file_zize": "-",
+      "update_person": "M",
+      "update_time": "09月13日 10:55",
+      "dir": "/root/01/cf1r5668",
+      "deleted": true
+    },
+    {
+      "id": "sq5l5djx",
+      "folder_color": "#99d75a",
+      "folder_name": "崔慧亮",
+      "file_zize": "-",
+      "update_person": "M",
+      "update_time": "09月13日 03:43",
+      "dir": "/root/01/sq5l5djx",
+      "deleted": false
+    },
+    {
+      "id": "lmwe1jne",
+      "folder_color": "#4e8af9",
+      "folder_name": "家家户户",
+      "file_zize": "-",
+      "update_person": "M",
+      "update_time": "09月13日 04:33",
+      "dir": "/root/01/lmwe1jne",
+      "deleted": false
+    }
+  ],
+  "person": [
+    {
+      "folder_color": "lightgreen",
+      "folder_name": "my_disk",
+      "file_zize": "-",
+      "update_person": "M",
+      "update_time": "9月11日 19:29",
+      "dir": "/root",
+      "deleted": false
+    }
+  ],
+  "mapList": [
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "20时59分",
+      "done": false,
+      "id": "vpD6y0M"
+    },
+    {
+      "name": "M",
+      "title": "改变当然很多人",
+      "sj": "21时0分",
+      "done": false,
+      "id": "HnQVtcI"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "21时0分",
+      "done": false,
+      "id": "PVG2Jm~"
+    },
+    {
+      "name": "M",
+      "title": "大苏打撒旦但是",
+      "sj": "7时56分",
+      "done": false,
+      "id": "a0TAYST"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "7时56分",
+      "done": false,
+      "id": "Z4cTyNf"
+    },
+    {
+      "name": "M",
+      "title": "挖的撒夫人过热然后突然",
+      "sj": "9时17分",
+      "done": false,
+      "id": "GijQ3T8"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "9时17分",
+      "done": false,
+      "id": "yMtqE0Q"
+    },
+    {
+      "name": "M",
+      "title": "大苏打萨达的",
+      "sj": "9时36分",
+      "done": false,
+      "id": "wbkMrmj"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "9时36分",
+      "done": false,
+      "id": "lNJHKtQ"
+    },
+    {
+      "name": "M",
+      "title": "过热好热好热公司的",
+      "sj": "15时14分",
+      "done": false,
+      "id": "AvnaW2y"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "15时14分",
+      "done": false,
+      "id": "Yyc0qWb"
+    },
+    {
+      "name": "M",
+      "title": "大撒大撒你",
+      "sj": "15时14分",
+      "done": false,
+      "id": "xEmO0Fn"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "15时14分",
+      "done": false,
+      "id": "L_oLZzQ"
+    },
+    {
+      "name": "M",
+      "title": "大撒大撒你\n和白热化",
+      "sj": "15时15分",
+      "done": false,
+      "id": "H5C5Ihc"
+    },
+    {
+      "name": "M",
+      "title": "个人隔热个人",
+      "sj": "15时15分",
+      "done": false,
+      "id": "gBRubMg"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "15时15分",
+      "done": false,
+      "id": "92ZdGl~"
+    },
+    {
+      "name": "M",
+      "title": "个人隔热个人\n今天金玉婷今天有",
+      "sj": "15时15分",
+      "done": false,
+      "id": "Nr4mo5L"
+    },
+    {
+      "name": "M",
+      "title": "湖人他合同日湖",
+      "sj": "16时14分",
+      "done": false,
+      "id": "Nlr5gGm"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "16时14分",
+      "done": false,
+      "id": "LiD9Qxs"
+    },
+    {
+      "name": "M",
+      "title": "湖人他合同日湖\nf非过热",
+      "sj": "16时14分",
+      "done": false,
+      "id": "xUzHQQ6"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "16时14分",
+      "done": false,
+      "id": "BMz9Paa"
+    },
+    {
+      "name": "M",
+      "title": "中",
+      "sj": "16时18分",
+      "done": false,
+      "id": "ezvW5Dc"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "16时18分",
+      "done": false,
+      "id": "mBMQGTl"
+    },
+    {
+      "name": "M",
+      "title": "啊",
+      "sj": "16时20分",
+      "done": false,
+      "id": "COe6upq"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "16时20分",
+      "done": false,
+      "id": "Q3QXLeS"
+    },
+    {
+      "name": "M",
+      "title": "急急急",
+      "sj": "16时22分",
+      "done": false,
+      "id": "kxjgtWw"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "16时22分",
+      "done": false,
+      "id": "j7am7Hb"
+    },
+    {
+      "name": "M",
+      "title": "555",
+      "sj": "16时23分",
+      "done": false,
+      "id": "InhQIL6"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "16时23分",
+      "done": false,
+      "id": "sn3DWM~"
+    },
+    {
+      "name": "M",
+      "title": "牛牛牛",
+      "sj": "16时26分",
+      "done": false,
+      "id": "pBcLKTU"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "16时26分",
+      "done": false,
+      "id": "jiLTpVb"
+    },
+    {
+      "name": "M",
+      "title": "nnn",
+      "sj": "16时26分",
+      "done": false,
+      "id": "OE1vg3r"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "16时26分",
+      "done": false,
+      "id": "KJ7EOqB"
+    },
+    {
+      "name": "M",
+      "title": "mmm",
+      "sj": "16时27分",
+      "done": false,
+      "id": "T_XbrgB"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "16时27分",
+      "done": false,
+      "id": "abN8xWf"
+    },
+    {
+      "name": "M",
+      "title": "121212",
+      "sj": "18时8分",
+      "done": false,
+      "id": "5~e~etI"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "18时8分",
+      "done": false,
+      "id": "5tUkoHA"
+    },
+    {
+      "name": "M",
+      "title": "111",
+      "sj": "18时10分",
+      "done": false,
+      "id": "jk9GIUp"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "18时10分",
+      "done": false,
+      "id": "PVXkdjE"
+    },
+    {
+      "name": "M",
+      "title": "121212",
+      "sj": "18时13分",
+      "done": false,
+      "id": "fyOGDtJ"
+    },
+    {
+      "name": "小特机器人",
+      "title": "对不起，没听懂",
+      "sj": "18时13分",
+      "done": false,
+      "id": "gb0dTxz"
+    }
+  ]
+}
